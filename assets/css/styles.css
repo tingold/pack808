@@ -268,6 +268,9 @@ header nav li:last-child{
 .features{
 	background-color: #f7f7f7;
 }
+.features a {
+	color: #003F87
+}
 
 .features .grid li{
 	padding: 0 30px;
@@ -319,6 +322,7 @@ header nav li:last-child{
 
 .contact{
 	background-image: url(../img/scouts.jpg);
+	background-repeat: repeat-y;
 	background-size: cover;
 	color: white;
 	background-color: #414a4f;
