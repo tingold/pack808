@@ -269,7 +269,8 @@ header nav li:last-child{
 	background-color: #f7f7f7;
 }
 .features a {
-	color: #003F87
+	color: #003F87;
+	text-decoration: underline;
 }
 
 .features .grid li{
